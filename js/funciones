@@ -1,0 +1,7 @@
+var persona={
+	nombre:"Isable II",
+	DNI:"00000000A",
+	edad:4543000000001,
+	email:"",
+	aficiones:["Ser imortal","gobernar","tramar planes de la invasion retiliana"]
+}
